@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "titolo": "Primo todo",
+        "completato": false
+    },
+
+    {
+        "id":2,
+        "titolo": "Secondo todo",
+        "completato": true
+    },
+
+    {
+        "id":3,
+        "titolo": "Terzo todo",
+        "completato": false
+    },
+
+    {
+        "id":4,
+        "titolo": "Quarto todo",
+        "completato": false
+    },
+
+    {
+        "id":5,
+        "titolo": "Quinto todo",
+        "completato": true
+    },
+
+    {
+        "id":6,
+        "titolo": "Sesto todo",
+        "completato": false
+    }
+]
